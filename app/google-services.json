@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "256163353150",
+    "firebase_url": "https://ufarm-a3741.firebaseio.com",
+    "project_id": "ufarm-a3741",
+    "storage_bucket": "ufarm-a3741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256163353150:android:b8dca9f6a521a2b0",
+        "android_client_info": {
+          "package_name": "com.lavacreators.corneliouzbett.ufarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256163353150-ll259ijr92ae58cvtaa3vq7bjrieakcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lavacreators.corneliouzbett.ufarm",
+            "certificate_hash": "1b7a913d3ade03bf21c8aea5b149d2de15b01b04"
+          }
+        },
+        {
+          "client_id": "256163353150-0gtjk3t72u158fijo0t550caaak1hi6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8lwgd8jQbI1-R8lhnq-u7dQkR3NuMZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256163353150-0gtjk3t72u158fijo0t550caaak1hi6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
